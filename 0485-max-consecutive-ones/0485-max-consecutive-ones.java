@@ -12,9 +12,6 @@ class Solution {
                 sum =0;
             }
         }
-        if(prevSum > sum){
-                return prevSum;
-        }
-        return sum;
+        return prevSum;
     }   
 }
