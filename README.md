@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -24,15 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -41,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
