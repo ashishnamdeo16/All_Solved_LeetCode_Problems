@@ -1,15 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        TreeSet<Integer> treeSet = new TreeSet<>();
-        for (int num : nums) {
-            treeSet.add(num);
+        int n = nums.length;
+        int sumofN = (n*(n+1))/2;
+        int sumofArrayElements = 0;
+        for(int num :nums){
+            sumofArrayElements += num;
         }
-        int num=0;
-        for(int i=0;i<=nums.length;i++){
-            if(!treeSet.contains(i)){
-                return i;
-            }
-        }
-        return -1;
+        int missingNum = sumofN - sumofArrayElements;
+        return missingNum;
     }
 }
