@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
