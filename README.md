@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
+| [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
