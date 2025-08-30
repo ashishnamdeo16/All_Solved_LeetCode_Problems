@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
