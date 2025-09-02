@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
