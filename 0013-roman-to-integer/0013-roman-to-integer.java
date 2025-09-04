@@ -12,12 +12,10 @@ class Solution {
 
         int num = map.get(s.charAt(s.length()-1));
         for(int i=s.length()-2;i>=0;i--){
-           char ch = s.charAt(i);
-           char bac = s.charAt(i+1);
-           if(map.get(ch) >= map.get(bac)){
-                num += map.get(ch);
+           if(map.get(s.charAt(i)) >= map.get(s.charAt(i+1))){
+                num += map.get(s.charAt(i));
            }else {
-              num -= map.get(ch);
+              num -= map.get(s.charAt(i));
            }
         }
         return num;
