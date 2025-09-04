@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
