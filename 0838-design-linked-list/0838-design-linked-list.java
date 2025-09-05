@@ -101,8 +101,52 @@ class MyLinkedList {
     public Node(int val){
         this.val = val;
     }
-    }
+  }
 }
+
+//Do by Doubly
+// class MyLinkedList {
+
+//     private Node tail;
+//     private Node head;
+//     private int size;
+
+//     public MyLinkedList() {
+//        this.size = 0;
+//        this.head = null;
+//        this.tail = null;
+//     }
+    
+//     public int get(int index) {
+       
+//     }
+    
+//     public void addAtHead(int val) {
+       
+//     }
+    
+//     public void addAtTail(int val) {
+        
+//     }
+    
+//     public void addAtIndex(int index, int val) {
+
+//     }
+    
+//     public void deleteAtIndex(int index) {
+
+//     }
+
+//     private class Node{
+//     int val;
+//     Node next;
+//     Node prev;
+
+//     public Node(int val){
+//         this.val = val;
+//     }
+//     }
+// }
 
 
 
