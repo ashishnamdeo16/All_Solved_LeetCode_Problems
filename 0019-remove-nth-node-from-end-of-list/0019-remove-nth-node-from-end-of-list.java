@@ -25,7 +25,6 @@ class Solution {
        for(int i=1;i<len;i++){
         if(i== len-n){
             curr.next = temp.next;
-            return head;
         }
         curr = curr.next;
         temp = temp.next;
