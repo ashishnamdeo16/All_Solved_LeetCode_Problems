@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0605-can-place-flowers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -249,10 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
