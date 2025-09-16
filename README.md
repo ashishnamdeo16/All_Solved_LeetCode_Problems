@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
 |  |
 | ------- |
