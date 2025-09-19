@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0326-power-of-three) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
