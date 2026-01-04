@@ -7,9 +7,9 @@ class Solution {
         int j=0;
         int maxLength = 0;
 
-         if (k >= s.length()) {
-            return s.length();
-        }
+        //  if (k >= s.length()) {
+        //     return s.length();
+        // }
         //Starting Loop for Calculations
         while(j<s.length()){
             char ch=s.charAt(j);
