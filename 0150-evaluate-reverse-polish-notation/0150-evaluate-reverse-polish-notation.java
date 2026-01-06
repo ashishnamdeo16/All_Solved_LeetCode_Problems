@@ -1,25 +1,32 @@
 class Solution {
     public int evalRPN(String[] tokens) {
+        if(tokens.length == 1) return Integer.parseInt(tokens[0]);
         Stack<Integer> stack = new Stack<>();
-        for(String s : tokens){
-            if(s.equals("+")){
-                int val = stack.pop() + stack.pop();
-                stack.push(val);
-            }else if(s.equals("-")){
-                int a = stack.pop();
-                int b = stack.pop();
-                int val = b - a;
-                stack.push(val);
-            }else if(s.equals("*")){
-                int val = stack.pop() * stack.pop();
-                 stack.push(val);
-            }else if(s.equals("/")){
-                int a = stack.pop();
-                int b = stack.pop();
-                int val = b/a;
-                 stack.push(val);
-            }else {
-                stack.push(Integer.parseInt(s));
+        for(int i=0;i<tokens.length;i++){
+            String ch = tokens[i];
+            if(ch.equals("*")){
+                    int right = stack.pop(); 
+                    int left = stack.pop();   
+                    int val = left * right; 
+                    stack.push(val);
+            }else if(ch.equals("/")){
+                    int right = stack.pop(); 
+                    int left = stack.pop();   
+                    int val = left / right; 
+                    stack.push(val);
+            }
+            else if(ch.equals("+")){
+                    int right = stack.pop(); 
+                    int left = stack.pop();   
+                    int val = left + right; 
+                    stack.push(val);
+            }else if(ch.equals("-")){
+                    int right = stack.pop(); 
+                    int left = stack.pop();   
+                    int val = left - right; 
+                    stack.push(val);
+            }else{
+                stack.push(Integer.parseInt(ch));
             }
         }
         return stack.pop();
