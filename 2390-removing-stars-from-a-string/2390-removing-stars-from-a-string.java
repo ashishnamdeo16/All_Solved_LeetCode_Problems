@@ -13,12 +13,9 @@ class Solution {
             l++;  
         }
         StringBuilder sb = new StringBuilder();
-        int size = stack.size();
-        for(int i=0;i<size;i++){
+        while (!stack.isEmpty()) {
             sb.append(stack.pop());
         }
-        sb.reverse();
-        String newS = sb.toString();
-        return newS;
+        return sb.reverse().toString();
     }
 }
