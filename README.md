@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1518-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
+| [1518-water-bottles](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
