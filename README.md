@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Binary Search
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Interactive
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
