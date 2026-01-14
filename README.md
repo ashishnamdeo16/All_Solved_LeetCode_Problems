@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1119-remove-vowels-from-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
