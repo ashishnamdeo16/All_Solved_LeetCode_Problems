@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
+| [1119-remove-vowels-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1119-remove-vowels-from-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
