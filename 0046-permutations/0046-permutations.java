@@ -10,7 +10,7 @@ class Solution {
     }
 
     public static void recurList(int start,int[] nums,List<List<Integer>> finalList){
-        if(start == nums.length){
+        if(start == nums.length-1){
             List<Integer> list = new ArrayList<>();
             for (int x : nums) list.add(x);
             finalList.add(list);
