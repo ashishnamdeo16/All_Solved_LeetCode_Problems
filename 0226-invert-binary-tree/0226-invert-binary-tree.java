@@ -19,9 +19,9 @@ class Solution {
         return root;
     }
 
-    public static void invertMyTree(TreeNode root){
+    public static TreeNode invertMyTree(TreeNode root){
         if(root == null){
-            return;
+            return null;
         }
 
         TreeNode temp = root.left;
@@ -29,6 +29,6 @@ class Solution {
         root.right = temp;
         invertMyTree(root.left);
         invertMyTree(root.right);
-
+        return root;
     }
 }
