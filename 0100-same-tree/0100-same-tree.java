@@ -18,18 +18,20 @@ class Solution {
        return checkForMe(p,q);
     }
 
-    public static boolean checkForMe(TreeNode p,TreeNode q){
+    public static boolean checkForMe(TreeNode p, TreeNode q){
         if(p == null && q == null){
             return true;
         }else if((p != null && q == null) || (q != null && p == null)){
             return false;
         }
-        if (p.val != q.val) {
-        return false;
+
+        if(p.val != q.val){
+            return false;
         }
+
         boolean left = checkForMe(p.left,q.left);
         boolean right = checkForMe(p.right,q.right);
-
-        return left && right;
+        if(left && right) return true;
+        return false;
     }
 }
