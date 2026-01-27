@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -438,4 +442,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
