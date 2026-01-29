@@ -15,14 +15,12 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-      return findHeight(root);
+        return findMaxForMe(root);
     }
-    public int findHeight(TreeNode root){
-        if(root == null){
-            return 0;
-        }
-        int left = findHeight(root.left);
-        int right = findHeight(root.right);
+    public int findMaxForMe(TreeNode root){
+        if(root == null) return 0;
+        int left = findMaxForMe(root.left);
+        int right = findMaxForMe(root.right);
         return 1 + Math.max(left,right);
     }
 }
