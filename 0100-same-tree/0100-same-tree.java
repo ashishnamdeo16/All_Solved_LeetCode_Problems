@@ -15,23 +15,17 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-       return checkForMe(p,q);
+    return checkForMe(p,q);
     }
-
-    public static boolean checkForMe(TreeNode p, TreeNode q){
+    public boolean checkForMe(TreeNode p, TreeNode q){
         if(p == null && q == null){
             return true;
-        }else if((p != null && q == null) || (q != null && p == null)){
+        } 
+        if((p != null && q == null) || (q != null && p == null)){
             return false;
         }
-
-        if(p.val != q.val){
-            return false;
-        }
-
-        boolean left = checkForMe(p.left,q.left);
-        boolean right = checkForMe(p.right,q.right);
-        if(left && right) return true;
+        if(p.val != q.val) return false;
+        if(checkForMe(p.left,q.left) && checkForMe(p.right,q.right)) return true;
         return false;
     }
 }
