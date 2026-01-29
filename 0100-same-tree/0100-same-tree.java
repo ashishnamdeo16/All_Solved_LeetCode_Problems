@@ -25,7 +25,6 @@ class Solution {
             return false;
         }
         if(p.val != q.val) return false;
-        if(checkForMe(p.left,q.left) && checkForMe(p.right,q.right)) return true;
-        return false;
+        return checkForMe(p.left,q.left) && checkForMe(p.right,q.right);
     }
 }
