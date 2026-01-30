@@ -26,9 +26,7 @@ class Solution {
         }else if(root.right == null){
              return 1 + findMinDepth(root.left);
         }
-        int left = findMinDepth(root.left);
-        int right = findMinDepth(root.right);
         
-        return 1 + Math.min(left,right);
+        return 1 + Math.min(findMinDepth(root.left),findMinDepth(root.right));
     }
 }
