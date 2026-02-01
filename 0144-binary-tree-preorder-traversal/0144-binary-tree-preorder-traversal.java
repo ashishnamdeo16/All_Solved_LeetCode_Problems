@@ -1,13 +1,13 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> finalList = new ArrayList<>();
-        dfs(root,0,finalList);
+        dfs(root,finalList);
         return finalList;
     }
-    public void dfs(TreeNode root,int depth, List<Integer> finalList){
+    public void dfs(TreeNode root, List<Integer> finalList){
         if(root == null) return;
         finalList.add(root.val);
-        dfs(root.left,depth+1,finalList);
-        dfs(root.right,depth+1,finalList);
+        dfs(root.left,finalList);
+        dfs(root.right,finalList);
     }
 }
