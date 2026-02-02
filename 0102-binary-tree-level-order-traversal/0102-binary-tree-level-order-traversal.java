@@ -26,16 +26,15 @@ class Solution {
             List<Integer> children = new ArrayList<>();
             for(int i=0;i<level;i++){
                 if(newQueue.peek().left != null){
-                    newQueue.offer(newQueue.peek().left);
-                }
-                if(newQueue.peek().right != null){
-                    newQueue.offer(newQueue.peek().right);
+                newQueue.offer(newQueue.peek().left);
+               }
+               if(newQueue.peek().right != null){
+                 newQueue.offer(newQueue.peek().right);
                 }
                 children.add(newQueue.poll().val);
             }
             mainList.add(children);
         }
-        
         return mainList;
     }
 }
