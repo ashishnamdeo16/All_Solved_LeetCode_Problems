@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0739-daily-temperatures) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
