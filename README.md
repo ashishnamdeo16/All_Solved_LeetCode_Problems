@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
