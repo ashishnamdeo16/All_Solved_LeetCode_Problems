@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
