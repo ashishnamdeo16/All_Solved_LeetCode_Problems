@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0283-move-zeroes) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0205-isomorphic-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0155-min-stack) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 ## Recursion
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
