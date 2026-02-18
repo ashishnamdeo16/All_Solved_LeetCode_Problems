@@ -14,11 +14,7 @@ class Solution {
             while(l<r){
                 int sum = nums[l] + nums[r];
                 if(sum == s){
-                    List<Integer> list = new ArrayList<>();
-                    list.add(nums[i]);
-                    list.add(nums[l]);
-                    list.add(nums[r]);
-                    finalList.add(list);
+                    finalList.add(Arrays.asList(nums[i],nums[l],nums[r]));
                     l++;
                     r--;
                     while(l<nums.length && nums[l] == nums[l-1]){
