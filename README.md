@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1929-concatenation-of-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
