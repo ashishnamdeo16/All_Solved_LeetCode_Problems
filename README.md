@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2360-longest-cycle-in-a-graph) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1197-minimum-knight-moves](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1197-minimum-knight-moves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2360-longest-cycle-in-a-graph) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2360-longest-cycle-in-a-graph) |
