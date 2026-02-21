@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
