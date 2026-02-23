@@ -16,10 +16,8 @@ class Solution {
                 low++;
             }
 
-            if(map.size() <= 2){
-                int len = high - low +1;
-                maxFruits = Math.max(len,maxFruits);
-            }
+            int len = high - low +1;
+            maxFruits = Math.max(len,maxFruits);
             high++;
         }
         return maxFruits == Integer.MIN_VALUE ? 1 : maxFruits;
