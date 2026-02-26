@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
+| [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Interactive
 |  |
