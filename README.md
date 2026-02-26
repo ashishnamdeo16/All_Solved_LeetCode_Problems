@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0259-3sum-smaller](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0283-move-zeroes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0202-happy-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
