@@ -8,13 +8,12 @@ class Solution {
             int prevNoDelete = noDelete;
             int prevOneDelete = oneDelete;
             noDelete = Math.max(noDelete + arr[i], arr[i]);
-            int v2 = 0;
             if(prevOneDelete == Integer.MIN_VALUE){
-                v2 = arr[i];
+                prevOneDelete = arr[i];
             }else{
-                v2 = prevOneDelete + arr[i];
+                prevOneDelete = prevOneDelete + arr[i];
             }
-            oneDelete = Math.max(v2,prevNoDelete);
+            oneDelete = Math.max(prevOneDelete,prevNoDelete);
             res = Math.max(res,Math.max(oneDelete,noDelete));
         }
 
