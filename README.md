@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Divide and Conquer
