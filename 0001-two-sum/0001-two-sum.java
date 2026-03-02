@@ -1,17 +1,19 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
+
         //Optimized Solution
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            int need = target - nums[i];
-            if(map.containsKey(need)){
-                return new int[]{map.get(need),i};
+        Map<Integer,Integer> bucket = new HashMap<>();
+        int i=0;
+        while(i<nums.length){
+            int num2 = target - nums[i];
+            if(bucket.containsKey(num2)){
+                return new int[]{i,bucket.get(num2)};
             }
-            map.put(nums[i],i);
+            bucket.put(nums[i],i);
+            i++;
         }
- 
-        //Brute Force
+
+        // //Brute Force
         // int sum = 0;
         // for(int i=0;i<nums.length;i++){
         //     for(int j=i+1;j<nums.length;j++){
