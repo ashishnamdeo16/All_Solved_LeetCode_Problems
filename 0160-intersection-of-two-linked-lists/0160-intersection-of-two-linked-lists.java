@@ -21,7 +21,7 @@ public class Solution {
       if(len > len2){
          while(finalstart > 0){
             curr = curr.next;
-            finalstart --;
+            finalstart--;
          }
        }else{
          while(finalstart > 0){
@@ -38,7 +38,7 @@ public class Solution {
         curr = curr.next;
         curr2 = curr2.next;
        }
-       
+
      return null;
     }
 }
