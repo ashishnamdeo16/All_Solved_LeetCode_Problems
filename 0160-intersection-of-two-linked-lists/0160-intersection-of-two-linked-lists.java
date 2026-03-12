@@ -38,9 +38,7 @@ public class Solution {
         curr = curr.next;
         curr2 = curr2.next;
        }
-
-
-       System.out.print(finalstart);
+       
      return null;
     }
 }
