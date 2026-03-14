@@ -8,7 +8,6 @@ class Solution {
             map.put(curr.val,map.getOrDefault(curr.val,0)+1);
             curr = curr.next;
         }
-        System.out.print(map);
         for(int x : map.values()){
             res.next = new ListNode(x);
             res = res.next;
