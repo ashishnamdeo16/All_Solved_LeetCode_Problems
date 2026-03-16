@@ -5,9 +5,9 @@ class Solution {
         int res = -1;
         while(low <= high){
             int mid = low + (high-low)/2;
-            if(arr[mid] < arr[mid+1]){
+            if(mid + 1 < arr.length && arr[mid] < arr[mid+1]){
                 low = mid + 1;
-            }else if(arr[mid] > arr[mid+1]){
+            }else{
                 res = mid;
                 high = mid -1;
             }
