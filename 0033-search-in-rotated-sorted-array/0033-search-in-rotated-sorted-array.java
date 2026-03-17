@@ -1,17 +1,16 @@
 class Solution {
     public int search(int[] nums, int target) {
     int min = findMinIndex(nums);
-    if(min != -1){
-        int right = binarySearch(min,nums.length-1,nums,target);
-        int left = binarySearch(0,min-1,nums,target);
-        if(left != -1){
-            return left;
-        }else{
-            return right;
-        }
+    if(min == -1) return -1;
+  
+    int right = binarySearch(min,nums.length-1,nums,target);
+    if(right != -1){
+        return right;
     }
-    return -1;
+    
+    return binarySearch(0,min-1,nums,target);
    }
+
 
    public int binarySearch(int low,int high,int[] nums,int target){
     int res = -1;
@@ -27,6 +26,7 @@ class Solution {
     }
     return -1;
    }
+
    public int findMinIndex(int[] nums){
     int low = 0;
     int high = nums.length-1;
@@ -42,6 +42,6 @@ class Solution {
     }
     return res;
    }
-   }
+}
    
 
