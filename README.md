@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
