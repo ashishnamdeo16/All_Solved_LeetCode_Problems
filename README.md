@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1064-fixed-point](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1064-fixed-point) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1064-fixed-point](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1064-fixed-point) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
