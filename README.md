@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1518-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -755,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
