@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
