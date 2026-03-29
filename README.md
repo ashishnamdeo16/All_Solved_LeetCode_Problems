@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
