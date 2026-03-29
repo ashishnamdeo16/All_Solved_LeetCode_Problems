@@ -12,7 +12,7 @@ class Solution {
             if(x == y){
                 continue;
             }
-            pq.offer(Math.abs(y-x));
+            pq.offer(x-y);
         }
         
         return pq.isEmpty() ? 0 : pq.peek();
