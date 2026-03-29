@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1064-fixed-point](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1064-fixed-point) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
