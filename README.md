@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0506-relative-ranks) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 ## Counting Sort
 |  |
 | ------- |
