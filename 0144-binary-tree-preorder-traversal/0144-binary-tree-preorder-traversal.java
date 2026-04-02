@@ -1,13 +1,16 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> finalList = new ArrayList<>();
-        dfs(root,finalList);
-        return finalList;
+    List<Integer> preOrder = new ArrayList<>();
+    funcFind(root,preOrder);
+    return preOrder;
     }
-    public void dfs(TreeNode root, List<Integer> finalList){
-        if(root == null) return;
-        finalList.add(root.val);
-        dfs(root.left,finalList);
-        dfs(root.right,finalList);
+    public void funcFind(TreeNode node,List<Integer> preOrder){
+        if(node == null) {
+            return;
+        }
+        int val = node.val;
+        preOrder.add(val);
+        funcFind(node.left,preOrder);
+        funcFind(node.right,preOrder);
     }
 }
