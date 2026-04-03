@@ -1,31 +1,32 @@
 class Solution {
     int levelCount = 1;
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        Queue<TreeNode> newQueue = new ArrayDeque<>();
-        List<List<Integer>> list = new ArrayList<>();
+        Queue<TreeNode> pq = new ArrayDeque<>();
+        List<List<Integer>> ans = new ArrayList<>();
         if(root == null){
-            return list;
+            return ans;
         }
-        newQueue.offer(root);
-        while(!newQueue.isEmpty()){
-            int level = newQueue.size();
-            List<Integer> children = new ArrayList<>(); 
-            for(int i=0;i<level;i++){
-                    if(newQueue.peek().left != null){
-                        newQueue.offer(newQueue.peek().left);
+        pq.offer(root);
+        while(!pq.isEmpty()){
+            int size = pq.size();
+            List<Integer> temp = new ArrayList<>();
+            for(int i=0;i<size;i++){
+                TreeNode p = pq.poll();
+                temp.add(p.val);
+                
+                    if(p.left != null){
+                        pq.offer(p.left);
                     }
-                    if(newQueue.peek().right != null){
-                         newQueue.offer(newQueue.peek().right);
+                    if(p.right != null){
+                        pq.offer(p.right);
                     }
-                     children.add(newQueue.poll().val);
             }
-            if (levelCount % 2 == 0) {
-                Collections.reverse(children);
+            if(levelCount%2 == 0){
+                Collections.reverse(temp);
             }
             levelCount++;
-            list.add(children);
-            }
-              return list;
+            ans.add(temp);
         }
-      
-    }
+        return ans;
+    }  
+}
