@@ -1,40 +1,27 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        Queue<TreeNode> newQueue = new ArrayDeque<>();
-        List<List<Integer>> mainList = new ArrayList<>();
+        Queue<TreeNode> pq = new ArrayDeque<>();
+        List<List<Integer>> ans = new ArrayList<>();
         if(root == null){
-            return mainList;
+            return ans;
         }
-        newQueue.offer(root);
-        while(!newQueue.isEmpty()){
-            int level = newQueue.size();
-            List<Integer> children = new ArrayList<>();
-            for(int i=0;i<level;i++){
-                if(newQueue.peek().left != null){
-                newQueue.offer(newQueue.peek().left);
-               }
-               if(newQueue.peek().right != null){
-                 newQueue.offer(newQueue.peek().right);
+        pq.offer(root);
+
+        while(!pq.isEmpty()){
+            int levelSize = pq.size();
+            List<Integer> temp = new ArrayList<>();
+            for(int i=0;i<levelSize;i++){
+                TreeNode node = pq.poll();
+                temp.add(node.val);
+                if(node.left != null){
+                    pq.offer(node.left);
                 }
-                children.add(newQueue.poll().val);
-            }
-            mainList.add(children);
+                if(node.right != null){
+                    pq.offer(node.right);
+                }
+            }   
+        ans.add(temp);
         }
-        return mainList;
+        return ans;
     }
 }
