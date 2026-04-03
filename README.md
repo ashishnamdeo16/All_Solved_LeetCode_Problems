@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3062-winner-of-the-linked-list-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3062-winner-of-the-linked-list-game) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Design
 |  |
 | ------- |
@@ -827,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
