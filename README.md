@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -840,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
