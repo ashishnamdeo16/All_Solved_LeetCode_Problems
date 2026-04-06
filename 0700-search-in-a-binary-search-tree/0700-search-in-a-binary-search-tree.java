@@ -11,7 +11,9 @@ class Solution {
         if(root.val == val && ans == null){
             ans = root;
         }
-        funcFind(root.left,val);
+        if(root.val > val){
+            funcFind(root.left,val);
+        }
         funcFind(root.right,val);
         return;
     }
