@@ -10,6 +10,7 @@ class Solution {
         }
         if(root.val == val && ans == null){
             ans = root;
+            return;
         }
         if(root.val > val){
             funcFind(root.left,val);
