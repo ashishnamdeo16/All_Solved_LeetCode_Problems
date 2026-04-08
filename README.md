@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [0872-leaf-similar-trees](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
