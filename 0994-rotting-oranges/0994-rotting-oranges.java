@@ -1,51 +1,61 @@
 class Solution {
-    int[] px = {0,-1,0,1};
-    int[] py = {-1,0,1,0};
     int time = 0;
-
+    int[] px = {0,1,0,-1};
+    int[] py = {1,0,-1,0};
     public int orangesRotting(int[][] grid) {
-        int fresh = 0;
-        Queue<Pair> que = new ArrayDeque<>();
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
-                if(grid[i][j] == 2){
-                    que.offer(new Pair(i,j));
-                }else if(grid[i][j] == 1){
-                    fresh++;
+
+       int m = grid.length;
+       int n = grid[0].length;
+       Queue<Pair> pq = new ArrayDeque<>();
+
+       int freshOranges = 0;
+
+        for(int i=0;i<m;i++){
+            for(int j = 0;j<n;j++){
+                if(grid[i][j] == 1){
+                    freshOranges++;
+                }else if(grid[i][j] == 2){
+                    pq.offer(new Pair(i,j));
+                    grid[i][j] = 0;
                 }
             }
         }
 
-        if (fresh == 0) return 0;
-
-        while(!que.isEmpty()){
-            int size = que.size();
-            boolean isChanged = false;
-            for(int c =0 ;c< size;c++){
-                Pair newPair = que.poll();
-            for(int k=0;k<4;k++){
-                int ii = newPair.x + px[k];
-                int jj = newPair.y + py[k];
-                if(ii<0 || jj <0 || jj>= grid[0].length || ii >= grid.length || grid[ii][jj] != 1){
-                    continue;
+        while(!pq.isEmpty() && freshOranges > 0){
+            time++;
+            int size = pq.size();
+            for(int i=0;i<size;i++){
+                Pair p = pq.poll();
+                for(int k=0;k<4;k++){
+                    int x = px[k]+p.i;
+                    int y = py[k]+p.j;
+                    if(isValid(x,y,m,n) && grid[x][y] == 1){
+                        pq.offer(new Pair(x,y));
+                        grid[x][y] = 0;
+                        freshOranges--;
+                    }
                 }
-                que.offer(new Pair(ii,jj));
-                grid[ii][jj] = 2;
-                fresh--;
-                isChanged = true;
             }
-            }
-            if(isChanged) time++;
         }
-        return fresh != 0 ? -1 : time;
+
+        if(freshOranges > 0) return -1;
+
+        return time;
     }
 
-    public class Pair{
-        int x;
-        int y;
-        public Pair(int x,int y){
-            this.x = x;
-            this.y = y;
+    public boolean isValid(int i,int j,int m,int n){
+        if(i < 0 || j<0 || i >= m || j >= n){
+            return false;
+        }
+        return true;
+    }
+
+    class Pair{
+        int i;
+        int j;
+        public Pair(int i,int j){
+            this.i = i;
+            this.j = j;
         }
     }
 }
