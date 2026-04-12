@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3856-trim-trailing-vowels) |
 ## Binary Search
 |  |
 | ------- |
