@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
