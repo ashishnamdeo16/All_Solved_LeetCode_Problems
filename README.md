@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
