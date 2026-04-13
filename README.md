@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
