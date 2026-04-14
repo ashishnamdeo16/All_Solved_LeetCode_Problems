@@ -9,7 +9,7 @@ class Solution {
     public int funcToCal(String s){
         int intVal = 0;
         for(char ch : s.toCharArray()){
-            int val = 'a' - ch;
+            int val =  ch - 'a';
             intVal = intVal*10 + val;
         }
 
