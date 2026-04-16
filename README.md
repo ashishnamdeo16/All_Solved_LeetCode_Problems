@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## String Matching
 |  |
@@ -941,4 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
