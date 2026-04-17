@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
