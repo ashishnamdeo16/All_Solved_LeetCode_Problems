@@ -1,8 +1,6 @@
 class Solution {
     public String replaceDigits(String s) {
         StringBuilder sb = new StringBuilder();
-        
-        int l =0;
 
        for(int i=0;i<s.length();i++){
         if(i%2 == 0){
