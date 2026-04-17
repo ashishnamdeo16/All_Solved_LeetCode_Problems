@@ -14,16 +14,12 @@ class Solution {
         int count = 0;
         
 
-        for(int i=0;i<words1.length;i++){
-            for(int j=0;j<words2.length;j++){
-                if(words1[i].equals(words2[j])){
-                        if(arr.get(words1[i]) == 1 && arr2.get(words2[j]) == 1){
-                        count++;
-                    }
-                }
+        for(String word : arr.keySet()){
+            if(arr.get(word) == 1 && arr2.getOrDefault(word, 0) == 1){
+                count++;
             }
         }
-
+        
         return count;
     }
 }
