@@ -9,7 +9,7 @@ class Solution {
     public int fibDp(int n,int[] dp){
       if(n < 2 ) return n;
       if(dp[n] != -1) return dp[n];
-      dp[n] = fib(n-1) + fib(n-2);
+      dp[n] = fibDp(n-1,dp) + fibDp(n-2,dp);
       return dp[n];
     }
 }
