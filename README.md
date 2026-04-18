@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2129-capitalize-the-title](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
