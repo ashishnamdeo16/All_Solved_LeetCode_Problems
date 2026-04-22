@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
