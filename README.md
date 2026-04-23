@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1844-replace-all-digits-with-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
