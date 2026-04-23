@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 ## Prefix Sum
