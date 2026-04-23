@@ -16,20 +16,13 @@ class Solution {
     }
 
     public boolean funcFind(String s,Set set){
-        Set<Character> needs = new HashSet<>();
 
-         for(Character c : s.toCharArray()){
-            needs.add(c);
-        }
-
-        int count = 0;
-
-        for(Character ch : needs){
-            if(set.contains(ch)){
-               count++;
+        for(Character c : s.toCharArray()){
+            if(!set.contains(c)){
+                return false;
             }
         }
 
-        return count == needs.size();
+        return true;
     }
 }
