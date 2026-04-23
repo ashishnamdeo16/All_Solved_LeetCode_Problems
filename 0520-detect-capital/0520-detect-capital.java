@@ -2,20 +2,20 @@ class Solution {
     public boolean detectCapitalUse(String word) {
         if(word.matches("[A-Z]+")) return true;
         if(word.matches("[a-z]+")) return true;
-        boolean flag = true;
+
         if(Character.isUpperCase(word.charAt(0))){
             int r = 1;
             while(r < word.length()){
                 if(!Character.isLowerCase(word.charAt(r))){
-                    flag = false;
+                    return false;
                 }
                 r++;
             }
         }else{
             return false;
         }
-        
-        return flag;
+
+        return true;
     }
 }
 
