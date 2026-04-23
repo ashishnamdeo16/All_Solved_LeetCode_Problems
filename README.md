@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3340-check-balanced-string) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3794-reverse-string-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## String Matching
 |  |
