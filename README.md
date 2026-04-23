@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
