@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1603-design-parking-system](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1518-water-bottles) |
+| [1603-design-parking-system](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1603-design-parking-system](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1603-design-parking-system) |
 ## Recursion
 |  |
 | ------- |
