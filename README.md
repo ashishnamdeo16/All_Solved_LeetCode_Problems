@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1598-crawler-log-folder) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1544-make-the-string-great) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
