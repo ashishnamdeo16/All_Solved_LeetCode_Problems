@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2129-capitalize-the-title) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
