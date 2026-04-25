@@ -1,7 +1,7 @@
 class Solution {
     public int firstUniqueEven(int[] nums) {
         int[] freq = new int[101];
-        Arrays.fill(freq,0);
+        // Arrays.fill(freq,0);
         for(int x : nums){
             freq[x - 1]++;
         }
