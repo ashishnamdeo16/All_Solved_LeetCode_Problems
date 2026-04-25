@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
