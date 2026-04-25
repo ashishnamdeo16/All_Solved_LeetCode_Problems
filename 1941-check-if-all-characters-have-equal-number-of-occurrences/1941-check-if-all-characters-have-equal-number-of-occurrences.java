@@ -7,20 +7,12 @@ class Solution {
         }
 
         int count = 0;
-        for(int i=0;i<freq.length;i++){
-           if(freq[i] != 0){
-            count = freq[i];
-            break;
-           }
+        for(int f : freq){
+            if(f != 0){
+                if(count == 0) count = f;
+                else if(f != count) return false;
+            }
         }
-
-         for(int i=0;i<freq.length;i++){
-           if(freq[i] != 0 && freq[i] != count){
-                return false;
-           }
-        }
-
-
 
         return true;
     }
