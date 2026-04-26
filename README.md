@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
