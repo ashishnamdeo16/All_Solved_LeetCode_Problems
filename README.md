@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0680-valid-palindrome-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0621-task-scheduler) |
+| [0680-valid-palindrome-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
