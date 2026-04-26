@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0739-daily-temperatures) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0937-online-stock-span) |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 ## Number Theory
 |  |
 | ------- |
