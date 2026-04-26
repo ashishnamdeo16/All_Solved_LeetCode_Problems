@@ -1,38 +1,39 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        int[] val = new int[k];
-
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> {
-            if (a.count != b.count) {
-                return a.count - b.count;   
-            } else {
-                return a.val - b.val;      
-            }
-        });
-
         HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+
+        //Getting All the Frequencies of Numbers in nums
+        for(int x : nums){
+            map.put(x,map.getOrDefault(x,0)+1);
         }
 
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            pq.offer(new Pair(entry.getValue(),entry.getKey()));
+        PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (a,b) -> Integer.compare(a.freq, b.freq)
+        );
+
+        for(Map.Entry<Integer,Integer> x : map.entrySet()){
+            pq.add(new Pair(x.getValue(),x.getKey()));
             if(pq.size() > k){
                 pq.poll();
             }
         }
 
-        for (int i = k-1; i >= 0; i--) {
-            val[i] = pq.poll().val;
+        int[] arr = new int[k];
+
+        for(int i = arr.length - 1;i>=0;i--){
+            Pair p = pq.poll();
+            arr[i] = p.val;
         }
-        
-        return val;
+
+        return arr;
+
     }
+
     class Pair{
-        int count;
+        int freq;
         int val;
-        public Pair(int count, int val){
-            this.count = count;
+        public Pair(int freq,int val){
+            this.freq = freq;
             this.val = val;
         }
     }
