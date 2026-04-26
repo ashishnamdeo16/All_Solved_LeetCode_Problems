@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-remove-vowels-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1119-remove-vowels-from-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1544-make-the-string-great) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
