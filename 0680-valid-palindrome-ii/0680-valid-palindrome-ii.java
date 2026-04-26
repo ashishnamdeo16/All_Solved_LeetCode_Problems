@@ -1,12 +1,11 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        int l = 0;int r = sb.length()-1;
-        if(isPalindrome(sb,l,r)) return true;
+        int l = 0;int r = s.length()-1;
+        if(isPalindrome(s,l,r)) return true;
 
         while(l<r){
-            if(sb.charAt(l) != sb.charAt(r)){
-                return isPalindrome(sb,l+1,r) || isPalindrome(sb,l,r-1);
+            if(s.charAt(l) != s.charAt(r)){
+                return isPalindrome(s,l+1,r) || isPalindrome(s,l,r-1);
             }
             l++;
             r--;
@@ -15,7 +14,7 @@ class Solution {
         return false;
     }
 
-    public boolean isPalindrome(StringBuilder s,int l,int r){
+    public boolean isPalindrome(String s,int l,int r){
         while(l < r){
             if(s.charAt(l++) != s.charAt(r--)){
                 return false;
