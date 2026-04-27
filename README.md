@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
