@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1119-remove-vowels-from-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Simulation
