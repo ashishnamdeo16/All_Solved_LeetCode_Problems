@@ -6,10 +6,10 @@ class Solution {
         int l = 0;
         int j = 0;
 
-        int count = 0;
+        // int count = 0;
         while(l < players.length && j < trainers.length){
             if(players[l] <= trainers[j]){
-                count++;
+                // count++;
                 l++;
                 j++;
             }else{  
@@ -17,6 +17,6 @@ class Solution {
             }
         }
 
-        return count;
+        return l;
     }
 }
