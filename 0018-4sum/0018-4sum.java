@@ -26,7 +26,7 @@ class Solution {
                         finalAns.add(arr);
 
                         while(l < r && nums[l] == nums[l-1]) l++;
-                        while( l < r && nums[r] == nums[r+1]) r--;
+                        while(r >= l && nums[r] == nums[r+1]) r--;
 
                     }else if(sum > target){
                         r--;
