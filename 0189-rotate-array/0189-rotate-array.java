@@ -1,22 +1,28 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        k=k%n;
-        int[] temp = new int[k];
+       int kk = k % nums.length;
+       int[] arr1 = new int[k];
+       int[] arr2 = new int[nums.length - k];
 
-        //Copying the last elemests
-        for(int i=0;i<k;i++){
-            temp[i] = nums[n-k+i];
-        }
+       int l = 0;
+       for(int i=nums.length - kk;i<nums.length;i++){
+           arr1[l++] = nums[i];
+       }
 
-        //Shifting the remaining array
-        for(int j=n - k - 1;j>=0;j--){
-             nums[j+k] = nums[j];
-        }
-        
-        //joining both the arrays 
-        for(int m=0;m<k;m++){
-            nums[m] = temp[m];
-        }
+       for(int i=0;i<arr2.length;i++){
+        arr2[i] = nums[i];
+       }
+
+       int i =0; 
+       while(i < arr1.length){
+          nums[i] = arr1[i];
+          i++;
+       }
+
+        int j = 0;
+        while(j < arr2.length){
+          nums[i] = arr2[j++];
+          i++;
+       }
     }
 }
