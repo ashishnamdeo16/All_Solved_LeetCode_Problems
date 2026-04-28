@@ -31,13 +31,13 @@ class Solution {
                   r--;
                 }
             }
+        }
 
-            if(l == r){
+        if(l == r){
                if(Math.max(aliceW, bobW) < plants[l]) {
                 count++;
                 }
             }
-        }
 
         return count;
 
