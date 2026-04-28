@@ -1,39 +1,46 @@
 class Solution {
     public int minimumRefill(int[] plants, int capacityA, int capacityB) {
-         int l = 0;
-        int r = plants.length - 1;
+        int l = 0;//alice
+        int r = plants.length - 1;//bob
 
-        int alice = capacityA;
-        int bob = capacityB;
-
+        int aliceW = capacityA;
+        int bobW = capacityB;
         int count = 0;
 
-        while (l < r) {
-            // Alice
-            if (alice < plants[l]) {
+        while(l < r){
+            if(plants[l] <= aliceW){
+                 aliceW -= plants[l];
+                 l++;
+            }else{
+                aliceW = capacityA;
                 count++;
-                alice = capacityA;
+                if(plants[l] < aliceW){
+                  aliceW -= plants[l];
+                  l++;
+                }
             }
-            alice -= plants[l];
-            l++;
 
-            // Bob
-            if (bob < plants[r]) {
+            if(plants[r] <= bobW){
+                bobW -= plants[r];
+                 r--;
+            }else{
+                bobW = capacityB;
                 count++;
-                bob = capacityB;
+                if(plants[r] < bobW){
+                bobW -= plants[r];
+                  r--;
+                }
             }
-            bob -= plants[r];
-            r--;
         }
 
-        // Middle plant
-        if (l == r) {
-            if (Math.max(alice, bob) < plants[l]) {
+        if(l == r){
+               if(Math.max(aliceW, bobW) < plants[l]) {
                 count++;
+                }
             }
-        }
 
         return count;
+
     }
 }
 
