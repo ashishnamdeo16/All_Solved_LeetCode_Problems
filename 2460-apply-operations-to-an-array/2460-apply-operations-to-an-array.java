@@ -21,11 +21,6 @@ class Solution {
             }
         }
 
-        while(count > 0){
-            arr[r++] = 0;
-            count--;
-        }
-
         return arr;
     }
 }
