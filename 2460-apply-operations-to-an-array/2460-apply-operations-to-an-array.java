@@ -7,16 +7,13 @@ class Solution {
                 nums[i+1] = 0; 
             }
         }
-        
 
         int[] arr = new int[nums.length];
         int r = 0;
         int count = 0;
 
         for(int x : nums){
-            if(x == 0){
-                count++;
-            }else{
+            if(x!= 0){
                 arr[r++] = x;
             }
         }
