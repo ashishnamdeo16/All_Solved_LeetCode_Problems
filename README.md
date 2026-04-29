@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2502-sort-the-people) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
