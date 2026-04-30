@@ -1,34 +1,35 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        if(tokens.length == 1) return Integer.parseInt(tokens[0]);
+
         Stack<Integer> stack = new Stack<>();
-        for(int i=0;i<tokens.length;i++){
-            String ch = tokens[i];
-            if(ch.equals("*")){
-                    int right = stack.pop(); 
-                    int left = stack.pop();   
-                    int val = left * right; 
-                    stack.push(val);
-            }else if(ch.equals("/")){
-                    int right = stack.pop(); 
-                    int left = stack.pop();   
-                    int val = left / right; 
-                    stack.push(val);
-            }
-            else if(ch.equals("+")){
-                    int right = stack.pop(); 
-                    int left = stack.pop();   
-                    int val = left + right; 
-                    stack.push(val);
-            }else if(ch.equals("-")){
-                    int right = stack.pop(); 
-                    int left = stack.pop();   
-                    int val = left - right; 
-                    stack.push(val);
-            }else{
-                stack.push(Integer.parseInt(ch));
-            }
+       for(String x : tokens){
+        if(!stack.isEmpty()){
+         if(x.equals("+")){
+            int a = stack.pop();
+            int b = stack.pop();
+            stack.push(a+b);
+         }else if(x.equals("*")){
+            int a = stack.pop();
+            int b = stack.pop();
+            stack.push(a*b);
+         }
+         else if(x.equals("/")){
+            int a = stack.pop();
+            int b = stack.pop();
+            stack.push(b/a);
+         }
+         else if(x.equals("-")){
+            int a = stack.pop();
+            int b = stack.pop();
+            stack.push(b-a);
+         }else{
+            stack.push(Integer.parseInt(x));
+         }
+        }else{
+             stack.push(Integer.parseInt(x));
         }
-        return stack.pop();
+        
+       }
+       return stack.pop();
     }
 }
