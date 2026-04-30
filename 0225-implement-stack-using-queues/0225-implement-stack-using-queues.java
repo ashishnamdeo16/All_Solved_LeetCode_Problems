@@ -6,11 +6,14 @@ class MyStack {
     }
     
     public void push(int x) {
-        stack.addLast(x);
+        stack.offer(x);
     }
     
     public int pop() {
-        return stack.removeLast();
+        if (!stack.isEmpty()) {
+            return stack.removeLast();
+        }
+        return -1;
     }
     
     public int top() {
