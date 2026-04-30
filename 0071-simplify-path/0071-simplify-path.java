@@ -4,18 +4,16 @@ class Solution {
        Stack<String> stack = new Stack<>();
 
        for(String x : s){
-        if(!stack.isEmpty()){
             if(x.equals("") || x.equals(".")){
                 continue;
             }else if(x.equals("..")){
-                stack.pop();
+                if(!stack.isEmpty()) {
+                 stack.pop();
+                }
             }else{
                 stack.push(x);
             }
-        }else if(!x.equals("") && !x.equals("..") && !x.equals(".")){
-             stack.push(x);
         }
-    }
 
         if(stack.isEmpty()) return "/";
 
