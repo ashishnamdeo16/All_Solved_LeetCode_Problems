@@ -18,11 +18,9 @@ class Solution {
         if(stack.isEmpty()) return "/";
 
        StringBuilder sb = new StringBuilder();
-       System.out.print(stack);
 
-       while(!stack.isEmpty()){
-            sb.insert(0,stack.pop());
-            sb.insert(0,"/");
+       for (String dir : stack) {
+          sb.append("/").append(dir);
        }
 
        return sb.toString();
