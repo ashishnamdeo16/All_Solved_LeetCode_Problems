@@ -9,12 +9,9 @@ class MinStack {
     
     public void push(int val) {
         arr.push(val);
-        if(!minArr.isEmpty() && minArr.peek() >= val){
-            minArr.push(val);
-        }else if(minArr.isEmpty()){
+        if(minArr.isEmpty() || minArr.peek() >= val){
             minArr.push(val);
         }
-
     }
     
     public void pop() {
