@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
