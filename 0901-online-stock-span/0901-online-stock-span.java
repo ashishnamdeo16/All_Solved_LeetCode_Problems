@@ -7,17 +7,11 @@ class StockSpanner {
     
     public int next(int price) {
         int count = 1;
-        if(!stack.isEmpty()){
-        for(int[] arr : stack){
-            if(arr[0] < price){
-                count++;
-        }
-        }
-        stack.push(new int[]{price,count});    
-       }else{
+        while(!stack.isEmpty() && stack.peek()[0] <= price) {
+            count += stack.pop()[1];
+        }  
         stack.push(new int[]{price,count});
-       }
-       return count; 
+        return count; 
     }
 }
 
