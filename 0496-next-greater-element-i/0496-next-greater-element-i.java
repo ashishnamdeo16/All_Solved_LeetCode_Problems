@@ -1,31 +1,34 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-     int[] arr = new int[nums1.length];   
-     Stack<Integer> stack = new Stack<>();  
-     for(int i=0;i<nums1.length;i++){
-        for(int j=0;j<nums2.length;j++){
-            if(nums1[i] == nums2[j]){  
-                for(int k=nums2.length-1;k>=j;k--){
-                    stack.push(nums2[k]);
+        Stack<Integer> stack = new Stack<>();
+        int n = nums2.length;
+        int[] arr = new int[n];
+        int[] arr2 = new int[nums1.length];
+        stack.push(nums2[n - 1]);
+        arr[n-1] = -1;
+        for(int i=nums2.length - 2;i>=0;i--){
+            while(!stack.isEmpty() && nums2[i] >= stack.peek()){
+                stack.pop();
+            }
+
+            if(stack.isEmpty()){
+                arr[i] = -1;
+            }else{
+                arr[i] = stack.peek();
+            }
+
+            stack.push(nums2[i]);
+        }
+
+        for(int i=0;i<nums1.length;i++){
+            for(int j=0;i<nums2.length;j++){
+                if(nums1[i] == nums2[j]){
+                    arr2[i] = arr[j];
+                    break;
                 }
-                if(stack.isEmpty()){
-                    arr[i] = -1;
-                }else if(!stack.isEmpty() && stack.peek() > nums2[j]){
-                    arr[i] = stack.peek();
-                }else if(!stack.isEmpty() && stack.peek() <= nums2[j]){
-                    while(!stack.isEmpty() && stack.peek() <= nums2[j]){
-                        stack.pop();
-                    }
-                    if(stack.isEmpty()){
-                        arr[i] = -1;
-                    }else{
-                        arr[i] = stack.peek();
-                    }
             }
         }
-        stack.clear();
-     }  
-     } 
-     return arr;
+
+        return arr2;
     }
 }
