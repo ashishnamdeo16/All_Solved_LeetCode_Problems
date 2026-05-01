@@ -21,7 +21,7 @@ class Solution {
         }
 
         for(int i=0;i<nums1.length;i++){
-            for(int j=0;i<nums2.length;j++){
+            for(int j=0;j<nums2.length;j++){
                 if(nums1[i] == nums2[j]){
                     arr2[i] = arr[j];
                     break;
