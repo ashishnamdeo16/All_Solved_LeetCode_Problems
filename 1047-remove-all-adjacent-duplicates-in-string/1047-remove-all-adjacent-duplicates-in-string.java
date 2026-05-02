@@ -1,7 +1,7 @@
 class Solution {
     public String removeDuplicates(String s) {
         Stack<Character> stack = new Stack<>();
-        String finalAns = "";
+        StringBuilder sb = new StringBuilder();
         for(char ch : s.toCharArray()){
             if(!stack.isEmpty() && stack.peek() == ch){
                 stack.pop();
@@ -10,8 +10,8 @@ class Solution {
             }
         }
         while(!stack.isEmpty()){
-            finalAns = stack.pop() + finalAns;
+            sb.insert(0,stack.pop());
         }
-        return finalAns;       
+        return sb.toString();       
   }
 }
