@@ -8,10 +8,10 @@ class Solution {
         int[] ans = new int[heights.length];
         Stack<int[]> stack = new Stack<>();
 
-        stack.push(new int[]{heights[0],-1});
+        stack.push(new int[]{heights[0],0});
         ans[0] = -1;
 
-        for(int i=0;i<heights.length;i++){
+        for(int i=1;i<heights.length;i++){
             while(!stack.isEmpty() && heights[i] <= stack.peek()[0]){
                 stack.pop();
             }
@@ -30,7 +30,7 @@ class Solution {
         int[] ans = new int[heights.length];
         Stack<int[]> stack = new Stack<>();
 
-        stack.push(new int[]{heights[heights.length - 1],-1});
+        stack.push(new int[]{heights[heights.length - 1],heights.length-1});
         ans[heights.length - 1] = heights.length;
 
         for(int i=heights.length - 2;i>=0;i--){
@@ -59,7 +59,7 @@ class Solution {
 
     public int[] allAreas(int[] heights,int[] width){
         int[] allArea = new int[heights.length];
-        for(int i=0;i<heights.length-1;i++){
+        for(int i=0;i<heights.length;i++){
             allArea[i] = heights[i] * width[i];
         }
         return allArea;
