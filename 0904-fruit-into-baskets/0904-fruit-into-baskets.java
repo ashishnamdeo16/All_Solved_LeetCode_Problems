@@ -4,11 +4,12 @@ class Solution {
         int right = 0;
         int max = Integer.MIN_VALUE;
         Set<Integer> set = new HashSet<>();
+
         while(right < fruits.length){   
             set.add(fruits[right]);
             if(set.size() > 2){
                 set.remove(fruits[left]);
-                left++;
+                left = right-1;
             }
 
             max = Math.max(max,right - left + 1);
