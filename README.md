@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0259-3sum-smaller) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
