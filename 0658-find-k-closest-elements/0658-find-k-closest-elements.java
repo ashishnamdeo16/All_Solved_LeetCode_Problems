@@ -18,8 +18,6 @@ class Solution {
             }
         }
 
-        System.out.print(pq.size());
-
         List<Integer> list = new ArrayList<>();
         while(!pq.isEmpty()){
             list.add(pq.poll().val);
