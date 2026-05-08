@@ -1,26 +1,38 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-       int low = 0;
-       int high = 0;
-       char[] ch = s.toCharArray();
-       int longestSubString = Integer.MIN_VALUE;
-       int[] freq = new int[256];
-       int maxFreq = Integer.MIN_VALUE;
-       while(high<ch.length){
-            freq[ch[high]]++;
-            int len = high - low + 1;
-            maxFreq = Math.max(maxFreq, freq[ch[high]]);
-            int diff = len - maxFreq;
+       int right = 0;
+       int left = 0;
+
+        int res = Integer.MIN_VALUE;
+        int[] freq = new int[256];
+
+        while(right < s.length()){
+            freq[s.charAt(right)]++;
+
+            int len = right - left + 1;
+            int maxElement = getMax(freq);
+            int diff = len - maxElement;
+
             while(diff > k){
-                freq[ch[low]]--;
-                low++;
-                len = high - low + 1;
-                diff = len - maxFreq;
+                freq[s.charAt(left)]--;
+                left++;
+                len = right - left + 1;
+                maxElement = getMax(freq);
+                diff = len - maxElement;
             }
-            len = high - low + 1;
-            longestSubString = Math.max(longestSubString,len);
-            high++;
-       }
-        return longestSubString;
+
+            res = Math.max(res,right - left + 1 );
+            right++;
+        }
+
+        return res;
+    }
+
+    public int getMax(int[] freq){
+        int max = Integer.MIN_VALUE;
+        for(int i=0;i<freq.length;i++){
+            max = Math.max(max,freq[i]);
+        }
+        return max;
     }
 }
