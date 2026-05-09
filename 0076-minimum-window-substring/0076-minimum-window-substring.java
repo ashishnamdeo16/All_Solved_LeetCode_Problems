@@ -1,34 +1,35 @@
 class Solution {
     public String minWindow(String s, String t) { 
-       int[] have = new int[256];
-       int[] needed = new int[256];
-       for(char x : t.toCharArray()){
-            needed[x]++;
-       }
-       int high =0;
-       int low =0;
-       int start = 0;
-       int min = Integer.MAX_VALUE;
-    while(high<s.length()){
-        char ch = s.charAt(high);
-        have[ch]++;
-        while(isValid(have,needed)){
-            int len = high - low + 1;
-            if (len < min) {
-            min = len;
-            start = low;
-            }
-            have[s.charAt(low)]--;
-            low++;
-        }
-        high++;
-    }
-    return min == Integer.MAX_VALUE ? "" : s.substring(start,start + min);
-    }
+        int[] arr = new int[256];
+        int[] freq = new int[256];
 
-    public boolean isValid(int[] have, int [] needed){
-        for(int i = 0;i<needed.length;i++){
-            if(have[i] < needed[i]){
+        for(char ch : t.toCharArray()){
+            arr[ch]++;
+        }
+        int right = 0;
+        int left = 0;
+        int start = 0;
+        int min = Integer.MAX_VALUE;
+
+        while(right < s.length()){
+            freq[s.charAt(right)]++;
+            while(isValid(freq,arr)){
+                int len = right - left + 1;
+                if(len < min){
+                    min = len;
+                    start = left;
+                } 
+                freq[s.charAt(left)]--;
+                left++;
+            }
+            right++;
+        }
+
+        return min == Integer.MAX_VALUE ? "" : s.substring(start,start+min);
+    }
+    public boolean isValid(int[] freq,int[] arr){
+        for(int i=0;i<arr.length;i++){
+            if(freq[i] < arr[i]){
                 return false;
             }
         }
