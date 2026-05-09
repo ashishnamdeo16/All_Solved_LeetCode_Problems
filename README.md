@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0500-keyboard-row) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0487-max-consecutive-ones-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
