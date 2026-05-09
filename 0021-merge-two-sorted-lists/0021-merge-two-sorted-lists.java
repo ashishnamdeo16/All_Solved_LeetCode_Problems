@@ -1,37 +1,34 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode mergedList = new ListNode();
-        ListNode curr = mergedList;
-        while(list1 != null && list2 != null){
-            if(list1.val < list2.val){
-                curr.next = list1;
-                list1 = list1.next;
+       ListNode temp = new ListNode();
+       ListNode curr = temp;
+       ListNode p1 = list1;
+       ListNode p2 = list2;
+
+        while(p1 != null && p2 != null){
+            if(p1.val > p2.val){
+                curr.next = p2;
+                p2 = p2.next;
+                curr = curr.next;
             }else{
-                curr.next = list2;
-                list2 = list2.next;
+                curr.next = p1;
+                p1 = p1.next;
+                curr = curr.next;
             }
-            curr = curr.next;
         }
-        while(list1 != null){
-            curr.next = list1;
-            curr = curr.next;
-            list1 = list1.next;
+
+        while(p1 != null){
+            curr.next = p1;
+                p1 = p1.next;
+                curr = curr.next;
         }
-        while(list2 != null){
-            curr.next = list2;
+
+         while(p2 != null){
+            curr.next = p2;
             curr = curr.next;
-            list2 = list2.next;
+            p2 = p2.next;
         }
-        return mergedList.next;
+
+        return temp.next;
     }
 }
