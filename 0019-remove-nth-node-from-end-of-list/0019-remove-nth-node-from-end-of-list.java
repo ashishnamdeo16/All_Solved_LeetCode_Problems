@@ -1,6 +1,5 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-      if(head == null || head.next == null) return null;  
       ListNode curr = head;
       int count = 0;
 
@@ -9,16 +8,18 @@ class Solution {
         count++;
       }  
 
-       ListNode prev = null;
-       curr = head;
+       ListNode curr2 = head;
+       ListNode temp = curr2.next;
 
-      for(int i=1;i<=count-n;i++){
-        prev = curr;
-        curr = curr.next;
-      }
+       if(count == n) return head.next;
 
-      if(prev != null){
-        prev.next = curr.next;
+      for(int i=1;i<count;i++){
+        if(i == count-n) {
+            curr2.next = temp.next;
+            return head;
+        }
+        curr2 = curr2.next;
+        temp = temp.next;
       }
 
       return head;
