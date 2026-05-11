@@ -13,9 +13,8 @@ class Solution {
         while(!pq.isEmpty()){
             ListNode p = pq.poll();
             int val = p.val;
-            ListNode next = p.next;
-            if(next != null){
-                pq.offer(next);
+            if(p.next != null){
+                pq.offer(p.next);
             }
             curr.next = new ListNode(val);
             curr = curr.next;
