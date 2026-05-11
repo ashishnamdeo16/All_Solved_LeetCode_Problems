@@ -16,7 +16,7 @@ class Solution {
             if(p.next != null){
                 pq.offer(p.next);
             }
-            curr.next = new ListNode(val);
+            curr.next = p;
             curr = curr.next;
         }
 
