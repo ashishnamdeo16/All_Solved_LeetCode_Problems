@@ -1,15 +1,33 @@
 class Solution {
-    public int findDuplicate(int[] nums) {  
+    public int findDuplicate(int[] nums) {
+        int slow = 0;
+        int fast = 0;
+        while(true){
+            slow = nums[slow];
+            fast = nums[fast];
+            fast = nums[fast];
 
-        Set<Integer> set = new HashSet<>();
-
-        for (int num : nums) {
-            if (set.contains(num)) {
-                return num;
+            if(slow == fast){
+                slow = 0;
+                while(slow != fast){
+                    slow = nums[slow];
+                    fast = nums[fast];
+                }
+                return slow;
             }
-            set.add(num);
-        }
-        return -1;
+        }  
+    }
+}
+
+        // Set<Integer> set = new HashSet<>();
+
+        // for (int num : nums) {
+        //     if (set.contains(num)) {
+        //         return num;
+        //     }
+        //     set.add(num);
+        // }
+        // return -1;
 
         // Arrays.sort(nums);
         // int l = 0;
@@ -43,6 +61,4 @@ class Solution {
     //         return entry.getKey();
     //     }
     // }
-
-    }
-}
+        
