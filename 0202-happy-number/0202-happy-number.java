@@ -3,22 +3,23 @@ class Solution {
         int slow = n;
         int fast = n;
         while(fast != 1){
-            slow = findSq(slow);
-            fast = findSq(fast);
-            fast = findSq(fast);
+            slow = func(slow);
+            fast = func(fast);
+            fast = func(fast);
             if(slow == fast && slow != 1){
                 return false;
             }
         }
+
         return true;
     }
 
-    public int findSq(int n){
+    public int func(int n){
         int sum = 0;
-        while(n>0){
-            int rem = n%10;
-            n = n/10;
-            sum = sum + rem * rem;
+        while(n > 0){
+            int rem = n % 10;
+            sum += rem * rem;
+            n /= 10;
         }
         return sum;
     }
