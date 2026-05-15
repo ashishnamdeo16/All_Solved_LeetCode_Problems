@@ -24,7 +24,7 @@ class Solution {
         }
 
 
-        if(before.next != null){
+        if(before != null){
              before.next = temp;
         }else{
             head = temp;
