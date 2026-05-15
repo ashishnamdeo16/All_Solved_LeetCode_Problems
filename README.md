@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1844-replace-all-digits-with-characters) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1668-maximum-repeating-substring](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
