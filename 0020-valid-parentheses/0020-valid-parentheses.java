@@ -14,6 +14,8 @@ class Solution {
                   ( ch == ']' && stack.peek() == '[') 
             ){  
                 stack.pop();
+            }else{
+                return false;
             }
          }
     }
