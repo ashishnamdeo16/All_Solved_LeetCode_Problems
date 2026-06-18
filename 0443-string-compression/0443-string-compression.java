@@ -1,32 +1,37 @@
 class Solution {
     public int compress(char[] chars) {
-        StringBuilder sb = new StringBuilder();
-        sb.append(chars[0]);
-        int count = 1;
-        int r = 1;
-        while(r < chars.length){
-            char ch = chars[r];
-            char prvCh = chars[r-1];
-            if(ch == prvCh){
-                 count++;
-            }else{
-                 if(count > 1){
-                    sb.append(count);
-                }
-                count = 1;
-                sb.append(ch);
-            }
-            r++;
+       StringBuilder sb = new StringBuilder();
+       int left = 0;
+
+       while(left < chars.length){
+        char ch = chars[left];
+        int count = 0;
+
+        while(left < chars.length && chars[left] == ch){
+             count++;   
+             left++;
         }
 
+        sb.append(ch);
+        
         if(count > 1){
             sb.append(count);
         }
+        
+       } 
 
-        for(int i=0;i<sb.length();i++){
-            chars[i] = sb.charAt(i);
-        }
 
-        return sb.length();
+       String compressed = sb.toString();
+
+for(int i = 0; i < compressed.length(); i++){
+    chars[i] = compressed.charAt(i);
+}
+
+
+        return compressed.length();
     }
 }
+
+// Character pick 
+// Start counting till we find character and then append and restart with new char 
+// 
