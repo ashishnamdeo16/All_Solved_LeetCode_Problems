@@ -19,10 +19,9 @@ class Solution {
             }
         }
     
-        if (secMin == Integer.MAX_VALUE) {
-            return new int[]{-1, -1};
-        } 
-        return new int[]{min, secMin};
+       return secMin == Integer.MAX_VALUE
+       ? new int[]{-1, -1}
+       : new int[]{min, secMin};
     }
 }
 
