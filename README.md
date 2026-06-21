@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 ## String Matching
 |  |
