@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2737-row-with-maximum-ones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2942-find-words-containing-character) |
@@ -1112,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Union-Find
