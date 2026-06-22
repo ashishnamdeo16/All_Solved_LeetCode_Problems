@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Binary Search
 |  |
 | ------- |
