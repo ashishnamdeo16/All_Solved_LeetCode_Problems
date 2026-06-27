@@ -3,44 +3,39 @@ class Solution {
     int[] py = {1,0,-1,0};
 
     public int numIslands(char[][] grid) {
-        int res = 0;
         int m = grid.length;
         int n = grid[0].length;
-
         boolean[][] visited = new boolean[m][n];
-
-        for (int i = 0; i < m; i++) {
-          Arrays.fill(visited[i], false);
-        }
+        int island = 0;
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] == '1' && visited[i][j] == false){
-                    dfs(grid,m,n,i,j,visited);
-                    res++;
+                if(grid[i][j] == '1' && !visited[i][j]){
+                    dfs(grid,visited,i,j,m,n); 
+                    island++;
                 }
             }
         }
-        
-        return res;
+
+        return island;
     }
 
-    public void dfs(char[][] grid,int m,int n,int i,int j,boolean[][] visited){
-        
+    public void dfs(char[][] grid,  boolean[][] visited,int i,int j,int m,int n){
         visited[i][j] = true;
-
+        
         for(int k=0;k<4;k++){
-            int x = px[k] + i;
-            int y = py[k] + j;
+            int x = i + px[k];
+            int y = j + py[k];
             if(isValid(x,y,m,n) && !visited[x][y] && grid[x][y] == '1'){
-                dfs(grid,m,n,x,y,visited);
+                 dfs(grid,visited,x,y,m,n); 
             }
         }
 
-    }   
+        return;
+    }
 
     public boolean isValid(int i,int j,int m,int n){
-        if(i < 0 || j < 0 || i >= m || j >= n){
+        if(i < 0 || j< 0 || i >= m || j >= n){
             return false;
         }
         return true;
