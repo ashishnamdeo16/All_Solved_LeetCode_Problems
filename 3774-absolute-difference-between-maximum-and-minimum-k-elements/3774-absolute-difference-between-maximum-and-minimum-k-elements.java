@@ -4,16 +4,11 @@ class Solution {
         int smallestSum = 0;
         int largestSum = 0;
 
+        int l = nums.length - 1;
         for(int i=0;i<k;i++){
             smallestSum += nums[i];
+            largestSum += nums[l--];
         }
-
-       int j = 0;
-       int l = nums.length - 1;
-       while(j<k){
-        largestSum += nums[l--];
-        j++;
-       }
 
        return Math.abs(largestSum - smallestSum);
     }
