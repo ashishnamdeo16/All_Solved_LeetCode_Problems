@@ -3,15 +3,13 @@ class Solution {
     int[] px = {0,1,0,-1};
     int[] py = {1,0,-1,0};
     public int orangesRotting(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+        int freshOranges = 0;
+        Queue<Pair> pq = new ArrayDeque<>();
 
-       int m = grid.length;
-       int n = grid[0].length;
-       Queue<Pair> pq = new ArrayDeque<>();
-
-       int freshOranges = 0;
-
-        for(int i=0;i<m;i++){
-            for(int j = 0;j<n;j++){
+        for(int i =0;i<m;i++){
+            for(int j =0;j<n;j++){
                 if(grid[i][j] == 1){
                     freshOranges++;
                 }else if(grid[i][j] == 2){
@@ -25,11 +23,11 @@ class Solution {
             time++;
             int size = pq.size();
             for(int i=0;i<size;i++){
-                Pair p = pq.poll();
-                for(int k=0;k<4;k++){
-                    int x = px[k]+p.i;
-                    int y = py[k]+p.j;
-                    if(isValid(x,y,m,n) && grid[x][y] == 1){
+                Pair p = pq.poll(); 
+                for(int k =0;k<4;k++){
+                    int x = px[k] + p.i;
+                    int y = py[k] + p.j;
+                    if(isValid(x,y,m,n) && grid[x][y] == 1 ){
                         pq.offer(new Pair(x,y));
                         grid[x][y] = 0;
                         freshOranges--;
