@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1046-last-stone-weight) |
@@ -1016,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
@@ -1049,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1140,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
