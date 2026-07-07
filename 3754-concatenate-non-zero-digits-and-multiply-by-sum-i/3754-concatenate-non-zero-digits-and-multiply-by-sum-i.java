@@ -1,7 +1,6 @@
 class Solution {
     public long sumAndMultiply(int n) {
         StringBuilder sb = new StringBuilder();
-        long a = 1222;
 
         int num = n;
         
@@ -23,7 +22,6 @@ class Solution {
         }
 
         long val = sum * temp;
-
         return val;
     }
 }
