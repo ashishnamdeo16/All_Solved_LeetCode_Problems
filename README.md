@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
