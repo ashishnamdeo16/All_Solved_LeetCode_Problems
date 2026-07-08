@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3794-reverse-string-prefix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3798-largest-even-number) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
 | [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
