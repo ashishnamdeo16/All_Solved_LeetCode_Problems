@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3701-compute-alternating-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
+| [3701-compute-alternating-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
