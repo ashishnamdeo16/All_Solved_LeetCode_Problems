@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3477-fruits-into-baskets-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3063-linked-list-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3063-linked-list-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3581-count-odd-letters-from-number) |
