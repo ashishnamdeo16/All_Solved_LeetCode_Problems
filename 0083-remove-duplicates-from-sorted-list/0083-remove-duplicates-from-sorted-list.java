@@ -15,9 +15,7 @@ class Solution {
        while(curr != null && curr.next != null){
         if(curr.val == curr.next.val){
             ListNode temp = curr.next.next;
-            curr.next.next = null;
             curr.next = temp;
-            curr = curr.next;
         }else{
             curr = curr.next;
         
