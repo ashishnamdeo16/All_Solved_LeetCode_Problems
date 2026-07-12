@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1408-string-matching-in-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1051-height-checker) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
 | [1133-largest-unique-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1133-largest-unique-number) |
+| [1331-rank-transform-of-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
