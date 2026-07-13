@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0917-reverse-only-letters) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0838-design-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0838-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
