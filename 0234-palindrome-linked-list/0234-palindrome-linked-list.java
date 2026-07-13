@@ -10,7 +10,7 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null) return false;
+        if(head == null || head.next == null) return true;
         ListNode curr = head;
         Stack<Integer> stack = new Stack<>();
 
@@ -20,6 +20,7 @@ class Solution {
         }
 
         curr = head;
+
         while(curr != null){
             if(curr.val != stack.pop()){
                 return false;
