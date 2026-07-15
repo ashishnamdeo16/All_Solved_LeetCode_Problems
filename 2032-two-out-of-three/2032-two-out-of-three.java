@@ -21,12 +21,6 @@ class Solution {
             }
         }
 
-        List<Integer> arr = new ArrayList<>();
-
-        for(int x : finalSet){
-            arr.add(x);
-        }
-
-        return arr;
+       return new ArrayList<>(finalSet);
     }
 }
