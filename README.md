@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-two-out-of-three) |
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-two-out-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
