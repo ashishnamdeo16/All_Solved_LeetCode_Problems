@@ -1,31 +1,34 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-       int right = 0;
-       int left = 0;
-       int maxLen = Integer.MIN_VALUE;
-       StringBuilder sb = new StringBuilder();
+       HashMap<Character,Integer> map = new HashMap<>();
+       int l = 0;
+       int r = 0;
+       int len = Integer.MIN_VALUE;
+       StringBuilder sb = new StringBuilder(s);
 
-       while(right < s.length()){
-            char ch = s.charAt(right);
-            sb.append(ch);
-            while(containsDup(sb)){
-                sb.deleteCharAt(0);
-                left++;
+       while(r < s.length()){
+            char ch = s.charAt(r);
+            map.put(ch,map.getOrDefault(ch,0)+1);
+
+            while(!isValid(map)){
+                map.put(s.charAt(l),map.get(s.charAt(l)) - 1);
+                if(map.get(s.charAt(l)) == 0){
+                    map.remove(s.charAt(l));
+                }
+                l++;
             }
-            maxLen = Math.max(maxLen,right -left + 1);
-            right++;
+
+            len = Math.max(len,r - l + 1);
+            r++;
        }
-       return maxLen == Integer.MIN_VALUE ? 0 : maxLen;
+        return len == Integer.MIN_VALUE ? 0 : len;
     }
-
-    public boolean containsDup(StringBuilder sb){
-        Set<Character> set = new HashSet<>();
-        for(int i=0;i<sb.length();i++){
-            if(set.contains(sb.charAt(i))){
-                return true;
+    public boolean isValid(HashMap<Character,Integer> map){
+        for(Map.Entry<Character,Integer> entry : map.entrySet()){
+            if(entry.getValue() > 1){
+                return false;
             }
-            set.add(sb.charAt(i));
         }
-        return false;
+        return true;
     }
 }
