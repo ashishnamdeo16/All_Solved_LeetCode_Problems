@@ -7,15 +7,18 @@ class Solution {
 
       while(right < nums.length){
         sum += nums[right];
-        while(sum >= target){
-                len = Math.min(len,right - left + 1);
+        if(sum  < target){
+            right++;
+        }else{
+            while(sum >= target){
                 sum -= nums[left];
+                len = Math.min(len,right - left + 1);
                 left++;
             }
-        right++;    
+        right++;
         }
+      }
 
       return len == Integer.MAX_VALUE ? 0 : len;
-
     } 
 }
