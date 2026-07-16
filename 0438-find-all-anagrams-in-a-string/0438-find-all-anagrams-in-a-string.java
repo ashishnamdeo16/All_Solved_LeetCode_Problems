@@ -1,42 +1,53 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        HashMap<Character, Integer> freq = new HashMap<>();
-        for (int c = 0; c < p.length(); c++) {
-            freq.put(p.charAt(c), freq.getOrDefault(p.charAt(c), 0) + 1);
+        HashMap<Character,Integer> pMap = new HashMap<>();
+        HashMap<Character,Integer> sMap = new HashMap<>();
+
+        for(char c : p.toCharArray()){
+            pMap.put(c,pMap.getOrDefault(c,0)+1);
         }
-        int i = 0;
-        int j = 0;
-        int count = freq.size();
-        int k = p.length();
-        int res = 0;
-        while (j < s.length()) {
-            char ch = s.charAt(j);
-            if (freq.containsKey(ch)) {
-                freq.put(ch, freq.get(ch) - 1);
-                if (freq.get(ch) == 0) {
-                count--;
-            }
-            } 
-            
-            if (j - i + 1 < k) {
-                j++;
-            } else if (j - i + 1 == k) {
-                if (count == 0) {
-                    arr.add(i);
+
+        int l = 0;
+        int r = 0;
+        List<Integer> arr = new ArrayList<>();
+
+        while(r<s.length()){
+            char ch = s.charAt(r);
+            sMap.put(ch,sMap.getOrDefault(ch,0)+1);
+
+            // Maintain window size equal to p length
+            if (r - l + 1 > p.length()) {
+                char leftChar = s.charAt(l);
+                sMap.put(leftChar, sMap.get(leftChar) - 1);
+
+                if (sMap.get(leftChar) == 0) {
+                    sMap.remove(leftChar);
                 }
-                char leftChar = s.charAt(i);
-                if (freq.containsKey(leftChar)) {
-                    if (freq.get(leftChar) == 0) {
-                        count++;
-                    }
-                    freq.put(leftChar, freq.get(leftChar) + 1);
-                }
-                i++;
-                j++;
+
+                l++;
             }
 
+            // Check current window
+            if (r - l + 1 == p.length() && isValid(pMap, sMap)) {
+                arr.add(l);
+            }
+
+            r++;
         }
+
         return arr;
+    }
+
+    public boolean isValid(Map<Character,Integer> pMap,Map<Character,Integer> sMap){
+        if(pMap.size() != sMap.size()){
+            return false;
+        }
+        for(Map.Entry<Character,Integer> entry : sMap.entrySet()){
+            if(!pMap.containsKey(entry.getKey()) || !pMap.get(entry.getKey()).equals(entry.getValue())){
+                return false;
+            }
+        }
+
+        return true;
     }
 }
