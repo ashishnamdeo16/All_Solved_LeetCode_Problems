@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-find-a-peak-element-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
