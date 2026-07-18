@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0986-interval-list-intersections) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1133-largest-unique-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1133-largest-unique-number) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1176-diet-plan-performance](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1176-diet-plan-performance) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1603-design-parking-system) |
