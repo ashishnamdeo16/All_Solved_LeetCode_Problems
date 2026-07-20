@@ -11,8 +11,8 @@ class Solution {
             noDelete = Math.max(noDelete + arr[i],arr[i]);
 
             int v2 = 0;
-            if(oneDelete == Integer.MIN_VALUE){
-                v2 = 0;
+            if(prvOneDelete == Integer.MIN_VALUE){
+                v2 = arr[i];
             }else{
                 v2 = prvOneDelete + arr[i];
             }
@@ -20,7 +20,7 @@ class Solution {
             //prvNoDelete = Means we are deleting the current element itself
             oneDelete = Math.max(prvNoDelete,v2);
 
-            res = Math.max(noDelete,oneDelete);
+            res = Math.max(Math.max(noDelete,oneDelete),res);
        }
 
        return res;
