@@ -11,8 +11,9 @@ class Solution {
             noDelete = Math.max(noDelete + arr[i],arr[i]);
 
             int v2 = 0;
+            
             if(prvOneDelete == Integer.MIN_VALUE){
-                v2 = arr[i];
+                v2 = Integer.MIN_VALUE;
             }else{
                 v2 = prvOneDelete + arr[i];
             }
