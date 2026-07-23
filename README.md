@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0792-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0832-flipping-an-image) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0821-shortest-distance-to-a-character) |
