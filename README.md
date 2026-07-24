@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0942-di-string-match) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1133-largest-unique-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1133-largest-unique-number) |
