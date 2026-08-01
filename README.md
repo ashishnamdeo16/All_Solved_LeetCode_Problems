@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2469-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
