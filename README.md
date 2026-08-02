@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
