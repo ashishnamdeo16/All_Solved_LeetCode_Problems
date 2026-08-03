@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3687-library-late-fee-calculator](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3687-library-late-fee-calculator) |
 | [3701-compute-alternating-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3662-filter-characters-by-frequency](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 ## String Matching
