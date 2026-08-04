@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2383-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2469-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
