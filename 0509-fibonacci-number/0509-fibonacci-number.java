@@ -1,21 +1,8 @@
 class Solution {
    
     public int fib(int n) {
-       if(n < 2) return n;  
-    //    int[] dp = new int[n+1];
-    //    Arrays.fill(dp,-1);
-    //    dp[0] = 0;
-    //    dp[1] = 1;
-    int prev = 0;
-    int prev2 = 1;
-
-       for(int i=2;i<=n+1;i++){
-         int curr = prev + prev2;
-         prev = prev2;
-         prev2 = curr;
-       }
-
-       return prev;
+        if(n == 1 || n == 0) return n;
+        return fib(n - 1) + fib(n-2);
     }
 
     // public int fibDp(int n,int[] dp){
