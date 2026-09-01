@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
       int l = 0;
       int r = 0;
-      int len = Integer.MIN_VALUE;
+      int len = 0;
 
       HashSet<Character> set = new HashSet<>();
 
@@ -19,6 +19,6 @@ class Solution {
             r++;
       }
 
-      return len == Integer.MIN_VALUE ? 0 : len;
+      return len;
     }
 }
