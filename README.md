@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3136-valid-word) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3447-clear-digits) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
