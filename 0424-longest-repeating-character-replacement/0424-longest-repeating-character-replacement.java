@@ -1,28 +1,28 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        char[] ch = s.toCharArray();
-        int[] freq = new int[256];
-        int max = Integer.MIN_VALUE;
-        int longest = Integer.MIN_VALUE;
-        int r = 0;
-        int l = 0;
-        while(r < ch.length){
-            freq[ch[r]]++;
-            max = Math.max(max,freq[ch[r]]);
-            int len = r - l + 1;
-            int diff = len - max;
+      int[] freq = new int[128];
+      int longest = -1;
+      int maxFreq = 0;
+      int l = 0;
+      int r = 0;
 
-            while(diff > k){
-                freq[ch[l]]--;
-                l++;
-                len = r - l + 1;
-                diff = len - max;
-            }
-            
+      while(r < s.length()){
+        char ch = s.charAt(r);
+        freq[ch]++;
+        maxFreq = Math.max(freq[ch],maxFreq);
+        int len = r - l + 1;
+        int diff = len - maxFreq;
+
+        while(diff > k){
+            freq[s.charAt(l)]--;
+            l++;
             len = r - l + 1;
-            longest = Math.max(len,longest);
-            r++;
+            diff = len - maxFreq;
         }
-        return longest;
+
+        longest = Math.max(r-l+1,longest);
+        r++;
+      }  
+      return longest;
     }
 }
