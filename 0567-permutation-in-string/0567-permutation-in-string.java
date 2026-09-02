@@ -1,36 +1,45 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-       if(s1.length() > s2.length()) return false;
-       int[] freq = new int[26];
-       int[] arr = new int[26];
-       for(char s : s1.toCharArray()){
-          freq[s - 'a']++;
-       }
+        if(s1.length() > s2.length()) return false;
 
-       int right = 0;
-       int left = 0;
+        int l = 0;
+        int r = 0;
 
-       while(right < s2.length()){
-        arr[s2.charAt(right) - 'a']++;
-        if(right - left + 1 < s1.length()){
-            right++;
-        }else if(right - left + 1 == s1.length()){
-            if(isPer(freq,arr)) return true;
-            arr[s2.charAt(left) - 'a']--;
-            left++;
-            right++;
+        int[] freqP = new int[128];
+        int[] freqS = new int[128];
+
+        for(char ch :s1.toCharArray()){
+            freqP[ch]++;
         }
-       }
 
-       return false; 
+        int k = s1.length();
+
+        while(r < s2.length()){
+            freqS[s2.charAt(r)]++;
+
+            if(r - l + 1 < k){
+                r++;
+            }else{
+                if(isValid(freqP,freqS)){
+                   return true;
+                }
+                freqS[s2.charAt(l)]--;
+                l++;
+                r++;
+            }
+        }
+
+        return false;
     }
 
-    public boolean isPer(int[] freq,int[] arr){
-        for(int i=0;i<freq.length;i++){
-            if(freq[i] != arr[i]){
+    public boolean isValid(int[] freqP,int[] freqS){
+        for(int i =0;i<freqS.length;i++){
+            if(freqS[i] != freqP[i]){
                 return false;
             }
         }
         return true;
     }
-}
+
+
+ }
