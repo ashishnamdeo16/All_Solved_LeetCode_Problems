@@ -6,11 +6,10 @@ class Solution {
             if(x == '[' || x == '(' || x == '{'){
                 stack.push(x);
             }else{
-        
-                if(!stack.isEmpty() && 
-                     (x == ']' &&  stack.peek() == '[')  || 
+                if(stack.isEmpty()) return false;
+                if( (x == ']' &&  stack.peek() == '[')  || 
                      (x == ')' &&  stack.peek() == '(')  || 
-                     (x == '}' &&  stack.peek() == '{')  ){
+                     (x == '}' &&  stack.peek() == '{'))  {
                     stack.pop();
                   }else{
                     return false;
