@@ -5,11 +5,11 @@ class Solution {
         int[] farr = new int[nums1.length];
 
         arr[nums2.length - 1] = -1;
-        stack.push(arr[nums2.length - 1]);
+        stack.push(nums2[nums2.length - 1]);
 
         for(int i = nums2.length - 2 ;i >= 0;i--){
 
-            while(!stack.isEmpty() && stack.peek() <= arr[i]){
+            while(!stack.isEmpty() && stack.peek() <= nums2[i]){
                 stack.pop();
             }
 
