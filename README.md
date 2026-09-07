@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1176-diet-plan-performance](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1176-diet-plan-performance) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-largest-unique-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1133-largest-unique-number) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-fixed-point](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1064-fixed-point) |
 | [1099-two-sum-less-than-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1099-two-sum-less-than-k) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1512-number-of-good-pairs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
