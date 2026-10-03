@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4020-elevator-requests-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3945-digit-frequency-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3866-first-unique-even-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String Matching
 |  |
 | ------- |
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -898,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [4020-elevator-requests-i](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Interactive
 |  |
 | ------- |
@@ -1313,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
