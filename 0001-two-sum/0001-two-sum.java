@@ -1,20 +1,28 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-       HashMap<Integer,Integer> map = new HashMap<>();
+        int[] res = {-1,-1};
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-       for(int i=0;i<nums.length;i++){
-        int sum = target - nums[i];
-        if(map.containsKey(sum)){
-            return new int[]{map.get(sum),i};
-        }
-        map.put(nums[i],i);
-       }
+        for(int i=0;i<nums.length;i++){
+            int sum = target - nums[i];
+            if(map.containsKey(sum)){
+                res[0] = i;
+                res[1] = map.get(sum);
+            }
 
-       return new int[]{-1,-1};
+            map.put(nums[i],i);
+        }  
+
+        // for(int i=0;i<nums.length;i++){
+        //     for(int j =i+1;j<nums.length;j++){
+        //         if(nums[i] + nums[j] == target){
+        //             res[0] = i;
+        //             res[1] = j;
+        //         }
+        //     }
+        // }
+
+        return res;
     }
 }
 
-// sum = 9 - 2 = 7
-// map.add(2,1);
-// sum = 9 - 7 = 2
-// map.contains(2) --> 0,1
