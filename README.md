@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0268-missing-number) |
+| [0271-encode-and-decode-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+| [0271-encode-and-decode-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0225-implement-stack-using-queues](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0271-encode-and-decode-strings](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AshishNamdeo14/All_Solved_LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
