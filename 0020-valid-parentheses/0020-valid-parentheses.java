@@ -15,12 +15,12 @@ class Solution {
             ){
                 stack.pop();
             }else{
-                isValid = false;
+                return false;
             }
         }
       }  
 
-    return isValid;
+    return stack.isEmpty();
     }
 }
 
